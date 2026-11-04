@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "modules": {
+    "apache": ["2.4.6"],
+    "mysql": ["mysql"],
+    "php": ["php"],
+    "redis": ["redis"]
+  }
+}
